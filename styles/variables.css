@@ -5,17 +5,16 @@
 :root {
   --accent-color-rec: #ff0070;
   --accent-color-decoration: #ff0070;
+  --accent-color-decoration-hover:rgba(255, 0, 112, 0.4);
   --accent-color: #ff0070;
   --title-color: #DB00FF;
   --text-color: #F1B2CE;
   --bg-color: #000028;
   --main-font: 'IBM Plex mono';
   --text-size: 18px;
-  --text-height: 23.4px;
-  --button-height: 18px;
-  --rec-height: 25px;
   --pd-text-top: 10px;
   --pd-text-bottom: 20px;
   --pd-title-bottom: 20px;
+  --bg-image: url(../images/cover-image-dark.png);
 }
 
