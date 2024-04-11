@@ -10,7 +10,7 @@
   --title-color: #DB00FF;
   --text-color: #F1B2CE;
   --bg-color: #000028;
-  --main-font: 'IBM Plex mono';
+  --main-font: 'IBM Plex mono', Courier, monospace;
   --text-size: 18px;
   --pd-text-top: 10px;
   --pd-text-bottom: 20px;
